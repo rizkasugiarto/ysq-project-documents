@@ -27,47 +27,41 @@ FR.013 – Manajemen Event Insidental Modul pengelolaan kegiatan non-rutin seper
 
 # Struktur Folder
 ```
- ysq-projek-document/
-    │
-    ├── Administrasi/
-    │   ├── Surat-Proyek/
-    │   ├── Proposal/
-    │   ├── Kontrak-Kerja/ (opsional)
-    │   └── Anggaran/ (opsional)
-    │
-    ├── Perencanaan/
-    │   ├── Timeline-Project/
-    │   ├── Requirement-Document/
-    │   │     ├── FR-TS-001-Login-Aplikasi.pdf
-    │   │     ├── FR-TS-002-Registrasi.pdf
-    │   │     └── ... dst
-    │   ├── Use-Case/
-    │   │     └── Usecase-Diagram-YSQ.png
-    │   ├── Flowchart/
-    │   └── Rencana-Risiko/
-    │
-    ├── Analisis/
-    │   ├── Analisis-Kebutuhan/
-    │   ├── Analisis-Data/
-    │   │     ├── Data-Pengajar.csv
-    │   │     └── ... dst
-    │   ├── Spesifikasi-Sistem/
-    │   ├── Study-Literatur/
-    │   └── ERD-Analisis-YSQ.png
-    │
-    ├── Desain/
-    │   ├── Wireframe/ (opsional)
-    │   ├── UI-UX/ (opsional)
-    │   ├── ERD/
-    │   ├── Database-Schema/
-    │   │     └── Database-Schema-YSQ.png
-    │   └── Arsitektur-Sistem/
-    │         └── Architecture-System-YSQ.png
-    │
-    └── Notulen
-        ├── NOTULENSI RAPAT EXSTERNAL.pdf
-        ├── NOTULENSI RAPAT INTERNAL TIM DEVELOPMENT YSQ -1.pdf
-        └── NOTULENSI RAPAT INTERNAL TIM DEVELOPMENT YSQ -2.pdf
+PROJECT YAYASAN SAHABAT QURAN/
+│
+├── 1. Administrasi/
+│   ├── MOU TAZKIA & YSQ.pdf
+│   ├── Project Plan YSQ.docx.pdf
+│   ├── Proposal YSQ.docx.pdf
+│   └── Surat Tugas Project YSQ.pdf
+│
+├── 2. Perencanaan/
+│   ├── Requirement-Document/
+│   │   ├── FR-Document.pdf
+│   │   ├── NFR-Document.pdf
+│   ├── DIAGRAM USE CASE.png
+│   ├── Use-Case.png
+│   ├── Rencana-Risiko.pdf
+│   └── Timeline-Project.csv
+│
+├── 3. Analisis/
+│   ├── Analisis Data/
+│   ├── Analisis Kebutuhan/
+│   └── Spesifikasi-Sistem/
+│
+├── 4. Desain/
+│   ├── Arsitektur-Sistem.png
+│   ├── Class-Diagram.png
+│   ├── Database-Schema.png
+│   ├── ERD YSQ.png
+│   └── Desain Mockup YSQ.pdf
+│
+├── 5. Notulensi/
+│   ├── Notulensi Rapat Internal Tim Development (1).pdf
+│   ├── Notulensi Rapat Internal Tim Development (2).pdf
+│   └── Notulensi Rapat Eksternal.pdf
+│
+└── README.txt
 ```
 
 # Teknologi yang digunakan
