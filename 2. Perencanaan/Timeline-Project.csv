@@ -1,0 +1,35 @@
+Task No,Deskripsi Tugas,Penanggung Jawab,Start
+1,Manajemen & Perencanaan Proyek,,
+1.1,Kick-off Meeting & Finalisasi Kebutuhan,Project Manager & System Analyst (Rizka),15 September 2025
+1.2,Penetapan Jadwal & Timeline Proyek,Project Manager & System Analyst (Rizka),16 September 2025
+1.3,Laporan Progres Mingguan,Project Manager & System Analyst (Rizka),23 September 2025
+2,Desain & Arsitektur,,
+2.1,Desain Alur Pengguna (User Flow),"Front-end & UI/UX Developer (Nisa, Jingga)",30 September 2025
+2.2,Desain Wireframe & Mockup (menggunakan Figma),"Front-end & UI/UX Developer (Nisa, Jingga)",7 Oktober 2025
+2.3,Finalisasi Desain Database (ERD),Project Manager & System Analyst (Rizka),14 Oktober 2025
+2.4,Penyiapan Proyek di Firebase (Firestore & Auth),Back-end & Database Developer (Fikri),21 Oktober 2025
+3,Pengembangan Fitur (Build),,
+3.1,Modul Autentikasi & Pengguna,,
+3.1.1,Back-end: API untuk Login & Manajemen User (CRUD),Back-end & Database Developer (Fikri),28 Oktober 2025
+3.1.2,Front-end: Halaman Login,"Front-end & UI/UX Developer (Nisa, Jingga)",4 November 2025
+3.1.3,Front-end: Manajemen Akun Pengguna (untuk Admin),"Front-end & UI/UX Developer (Nisa, Jingga)",11 November 2025
+"3,2",Modul Manajemen Kelas,,
+3.2.1,Back-end: API untuk CRUD Data Kelas,Back-end & Database Developer (Fikri),18 November 2025
+3.2.2,"Front-end: Halaman untuk Menambah, Melihat, Mengubah, Menghapus Kelas","Front-end & UI/UX Developer (Nisa, Jingga)",
+"3,3",Modul Manajemen Jadwal,,
+"3,31",Back-end: API untuk CRUD Jadwal Pelajaran,Back-end & Database Developer (Fikri),25 November 2025
+3.3.2,Front-end: Halaman untuk Mengelola Jadwal per Kelas,"Front-end & UI/UX Developer (Nisa, Jingga)",
+"3,4",Modul Manajemen Absensi,,
+3.4.1,Back-end: API untuk Mencatat Kehadiran Santri & Pengajar,Back-end & Database Developer (Fikri),2 Desember 2025
+3.4.2,Front-end: Halaman untuk Mengisi Absensi Harian,"Front-end & UI/UX Developer (Nisa, Jingga)",
+3.4.3,Front-end: Halaman Laporan (Report) Absensi,"Front-end & UI/UX Developer (Nisa, Jingga)",
+4,Pengujian (Testing),,
+4.1,Pembuatan Skenario Pengujian (Test Case),"Quality Assurance & Documentation (Nisa, Jingga)",9 Desember 2025
+4.2,Pengujian Fungsional per Fitur,"Quality Assurance & Documentation (Nisa, Jingga)",
+4.3,Pengujian Integrasi (UAT - User Acceptance Test),Semua Anggota Tim & Dosen,
+4.4,Pelaporan dan Perbaikan Bug,"QA (Jingga), Back-end (Fikri), Front-end (Nisa)",16 Desember 2025
+5,Deployment & Serah Terima,(Tim Gabungan),
+5.1,Persiapan Lingkungan Produksi,Back-end & Database Developer (Fikri),23 Desember 2025
+5.2,Deployment Aplikasi,Back-end & Database Developer (Fikri),
+5.3,Finalisasi Dokumentasi Proyek,"Quality Assurance & Documentation (Nisa, Jingga)",
+5.4,Serah Terima Proyek,Project Manager & System Analyst (Rizka),
