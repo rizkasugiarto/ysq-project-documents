@@ -63,7 +63,11 @@ FR.013 – Manajemen Event Insidental Modul pengelolaan kegiatan non-rutin seper
 │   └── Arsitektur-Sistem/
 │         └── Architecture-System-YSQ.png
 │
-└── 
+└── Notulen
+    ├── NOTULENSI RAPAT EXSTERNAL.pdf
+    ├── NOTULENSI RAPAT INTERNAL TIM DEVELOPMENT YSQ -1.pdf
+    └── NOTULENSI RAPAT INTERNAL TIM DEVELOPMENT YSQ -2.pdf
+
 
 # Teknologi yang digunakan
 HTML
