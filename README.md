@@ -26,58 +26,59 @@ FR.012 – Laporan Keuangan Otomatis Laporan keuangan terintegrasi berdasarkan t
 FR.013 – Manajemen Event Insidental Modul pengelolaan kegiatan non-rutin seperti parenting, seminar, dan lomba.
 
 # Struktur Folder
-📦 ysq-projek-document/
-│
-├── Administrasi/
-│   ├── Surat-Proyek/
-│   ├── Proposal/
-│   ├── Kontrak-Kerja/ (opsional)
-│   └── Anggaran/ (opsional)
-│
-├── Perencanaan/
-│   ├── Timeline-Project/
-│   ├── Requirement-Document/
-│   │     ├── FR-TS-001-Login-Aplikasi.pdf
-│   │     ├── FR-TS-002-Registrasi.pdf
-│   │     └── ... dst
-│   ├── Use-Case/
-│   │     └── Usecase-Diagram-YSQ.png
-│   ├── Flowchart/
-│   └── Rencana-Risiko/
-│
-├── Analisis/
-│   ├── Analisis-Kebutuhan/
-│   ├── Analisis-Data/
-│   │     ├── Data-Pengajar.csv
-│   │     └── ... dst
-│   ├── Spesifikasi-Sistem/
-│   ├── Study-Literatur/
-│   └── ERD-Analisis-YSQ.png
-│
-├── Desain/
-│   ├── Wireframe/ (opsional)
-│   ├── UI-UX/ (opsional)
-│   ├── ERD/
-│   ├── Database-Schema/
-│   │     └── Database-Schema-YSQ.png
-│   └── Arsitektur-Sistem/
-│         └── Architecture-System-YSQ.png
-│
-└── Notulen
-    ├── NOTULENSI RAPAT EXSTERNAL.pdf
-    ├── NOTULENSI RAPAT INTERNAL TIM DEVELOPMENT YSQ -1.pdf
-    └── NOTULENSI RAPAT INTERNAL TIM DEVELOPMENT YSQ -2.pdf
 
+// ysq-projek-document/
+    │
+    ├── Administrasi/
+    │   ├── Surat-Proyek/
+    │   ├── Proposal/
+    │   ├── Kontrak-Kerja/ (opsional)
+    │   └── Anggaran/ (opsional)
+    │
+    ├── Perencanaan/
+    │   ├── Timeline-Project/
+    │   ├── Requirement-Document/
+    │   │     ├── FR-TS-001-Login-Aplikasi.pdf
+    │   │     ├── FR-TS-002-Registrasi.pdf
+    │   │     └── ... dst
+    │   ├── Use-Case/
+    │   │     └── Usecase-Diagram-YSQ.png
+    │   ├── Flowchart/
+    │   └── Rencana-Risiko/
+    │
+    ├── Analisis/
+    │   ├── Analisis-Kebutuhan/
+    │   ├── Analisis-Data/
+    │   │     ├── Data-Pengajar.csv
+    │   │     └── ... dst
+    │   ├── Spesifikasi-Sistem/
+    │   ├── Study-Literatur/
+    │   └── ERD-Analisis-YSQ.png
+    │
+    ├── Desain/
+    │   ├── Wireframe/ (opsional)
+    │   ├── UI-UX/ (opsional)
+    │   ├── ERD/
+    │   ├── Database-Schema/
+    │   │     └── Database-Schema-YSQ.png
+    │   └── Arsitektur-Sistem/
+    │         └── Architecture-System-YSQ.png
+    │
+    └── Notulen
+        ├── NOTULENSI RAPAT EXSTERNAL.pdf
+        ├── NOTULENSI RAPAT INTERNAL TIM DEVELOPMENT YSQ -1.pdf
+        └── NOTULENSI RAPAT INTERNAL TIM DEVELOPMENT YSQ -2.pdf
+//
 
 # Teknologi yang digunakan
-HTML
-Tailwind CSS
-JavaScript/React sederhana
-PostgreSQL 17
-Docker Compose Volume
+- HTML
+- Tailwind CSS
+- JavaScript/React sederhana
+- PostgreSQL 17
+- Docker Compose Volume
 
 # Struktur Tim
-Project Manager & System Analyst (Rizka)
-Back-end & Database Developer (Fikri)
-Front-end & UI/UX Developer (Nisa)
-Quality Assurance & Documentation (Jingga)
+- Project Manager & System Analyst (Rizka)
+- Back-end & Database Developer (Fikri)
+- Front-end & UI/UX Developer (Nisa)
+- Quality Assurance & Documentation (Jingga)
