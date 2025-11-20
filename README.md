@@ -26,8 +26,8 @@ FR.012 – Laporan Keuangan Otomatis Laporan keuangan terintegrasi berdasarkan t
 FR.013 – Manajemen Event Insidental Modul pengelolaan kegiatan non-rutin seperti parenting, seminar, dan lomba.
 
 # Struktur Folder
-
-// ysq-projek-document/
+```
+ ysq-projek-document/
     │
     ├── Administrasi/
     │   ├── Surat-Proyek/
@@ -68,7 +68,7 @@ FR.013 – Manajemen Event Insidental Modul pengelolaan kegiatan non-rutin seper
         ├── NOTULENSI RAPAT EXSTERNAL.pdf
         ├── NOTULENSI RAPAT INTERNAL TIM DEVELOPMENT YSQ -1.pdf
         └── NOTULENSI RAPAT INTERNAL TIM DEVELOPMENT YSQ -2.pdf
-//
+```
 
 # Teknologi yang digunakan
 - HTML
