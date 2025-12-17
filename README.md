@@ -9,13 +9,16 @@ Meningkatkan efisiensi pengelolaan data santri, pengajar, dan kelas.
 Menyediakan platform yang mudah digunakan bagi semua pihak terkait.
 
 # Fitur Utama
+```
 FR.001 – Manajemen Pengguna & Otentikasi Mencakup proses login, logout, dan manajemen hak akses berdasarkan peran (Admin, Staf, Pengajar, dan Santri).
 FR.002 – Registrasi Peserta (Santri Baru) Fitur untuk pendaftaran santri melalui formulir publik serta verifikasi dan aktivasi akun oleh Admin.
 FR.003 – Manajemen Kelas & Penempatan Santri Pengelolaan data kelas, penambahan, penghapusan, serta pemindahan santri antar kelas.
 FR.004 – Manajemen Jadwal Pelajaran Fitur untuk membuat dan mengelola jadwal belajar mengajar berdasarkan kelas dan pengajar.
 FR.005 – Manajemen Kehadiran (Absensi) Mencatat kehadiran santri dan pengajar dengan status Hadir, Izin, Sakit, atau Alpha, serta menghasilkan laporan kehadiran dasar.
+```
 
 # Fitur tambahan
+```
 FR.006 – Manajemen Tugas & Materi Ajar Pengunggahan materi ajar dan penugasan online untuk santri.
 FR.007 – Pencatatan Nilai & Progres Belajar Input nilai ujian, rapor digital, dan pelacakan progres hafalan.
 FR.008 – Manajemen Rapor Digital Pembuatan dan ekspor rapor otomatis dalam format PDF.
@@ -24,6 +27,7 @@ FR.010 – Verifikasi Pembayaran & Bukti Transfer Fitur upload bukti transfer da
 FR.011 – Perhitungan Gaji Pengajar Modul perhitungan honor pengajar berdasarkan jadwal dan kehadiran.
 FR.012 – Laporan Keuangan Otomatis Laporan keuangan terintegrasi berdasarkan transaksi yang tercatat.
 FR.013 – Manajemen Event Insidental Modul pengelolaan kegiatan non-rutin seperti parenting, seminar, dan lomba.
+```
 
 # Struktur Folder
 ```
