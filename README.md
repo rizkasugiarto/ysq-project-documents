@@ -76,7 +76,6 @@ PROJECT YAYASAN SAHABAT QURAN/
 - Docker Compose Volume
 
 # Struktur Tim
-- Project Manager & System Analyst (Rizka)
+- Project Manager &  Quality Documentation  (Rizka)
 - Back-end & Database Developer (Fikri)
-- Front-end & UI/UX Developer (Nisa)
-- Quality Assurance & Documentation (Jingga)
+- Front-end & UI/UX Developer ( jingga)
