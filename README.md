@@ -77,5 +77,5 @@ PROJECT YAYASAN SAHABAT QURAN/
 
 # Struktur Tim
 - Project Manager &  Quality Documentation  (Rizka)
-- Back-end & Database Developer (Fikri)
+- Back-end & Database Developer (Nisa & Fikri)
 - Front-end & UI/UX Developer ( jingga)
